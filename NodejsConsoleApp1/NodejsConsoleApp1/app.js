@@ -10,4 +10,4 @@ console.log('test3');
 
 console.log('brunch_test');
 
-console.log('brunch_after');
+console.log('before_brunch_test');
